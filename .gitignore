@@ -1,0 +1,8 @@
+# This directory is a documentation-only publication package.
+/*
+!/.gitignore
+!/README.md
+!/PUBLICATION_CHECK.md
+!/docs/
+/docs/*
+!/docs/*.md
